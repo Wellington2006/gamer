@@ -1,4 +1,7 @@
 /*cabeçalho*/
+header{
+    background-color: #e4e1e1;margin-bottom: 5px;
+}
 header img{
     height: 70px;
     width: 70px;
